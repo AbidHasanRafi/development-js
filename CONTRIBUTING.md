@@ -53,5 +53,4 @@ If you find any bugs or issues, please open an issue on GitHub. Provide as much 
 - Document your code and provide comments where necessary.
 <br><br>
 
-Thank you for contributing to `development.js`!<br>-
- Happy coding!
+Thank you for contributing to `development.js`!
